@@ -36,4 +36,3 @@
 <meta name="description" content="Leon казино официальный сайт 2025. Рабочие зеркала для входа в LeonBet и Leon Casino из России без VPN. Быстрый доступ и бонусы.">
 <meta name="keywords" content="Leon казино, Leon казино зеркало, Leon зеркало 2025, LeonBet зеркало, Леон RU, Leon Casino вход, Леон казино бонусы">
 <meta name="author" content="LeonAccess2025">
-<link rel="canonical" href="https://leonaccess2025.github.io/LeonCasino2025/">
