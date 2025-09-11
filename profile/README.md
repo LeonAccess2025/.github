@@ -15,9 +15,8 @@
 
 | Домен для входа | Доступность | Назначение |
 |-----------------|-------------|------------|
-| [leon.com](https://k56thc2itt.com/?serial=36018&creative_id=1246](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO) | ✔ Работает | Основное зеркало |
-| [leonbet.com](https://k56thc2itt.com/?serial=36018&creative_id=1246](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO) | ✔ Работает | Ставки и казино |
-| [leon.ru](https://k56thc2itt.com/?serial=36018&creative_id=1246](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO) | ✔ Работает | Для РФ пользователей |
+[leon.com](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO) | ✔ Работает | Основное зеркало |
+| [leon.ru](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO) | ✔ Работает | Для РФ пользователей |
 
 ---
 
