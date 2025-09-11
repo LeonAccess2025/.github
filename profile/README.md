@@ -15,9 +15,9 @@
 
 | Домен для входа | Доступность | Назначение |
 |-----------------|-------------|------------|
-| [leon.com](https://k56thc2itt.com/?serial=36018&creative_id=1246) | ✔ Работает | Основное зеркало |
-| [leonbet.com](https://k56thc2itt.com/?serial=36018&creative_id=1246) | ✔ Работает | Ставки и казино |
-| [leon.ru](https://k56thc2itt.com/?serial=36018&creative_id=1246) | ✔ Работает | Для РФ пользователей |
+| [leon.com]([https://k56thc2itt.com/?serial=36018&creative_id=1246](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO)) | ✔ Работает | Основное зеркало |
+| [leonbet.com]([https://k56thc2itt.com/?serial=36018&creative_id=1246](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO)) | ✔ Работает | Ставки и казино |
+| [leon.ru]([https://k56thc2itt.com/?serial=36018&creative_id=1246](https://k56thc2itt.com/?serial=36018&creative_id=1246&anid=SENTINO&path=registration&retentionId=a8aecea0-2dac-41a0-82ca-59e0cf53f33f&utm_source=russia&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SENTINO)) | ✔ Работает | Для РФ пользователей |
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 🧠 SEO Мета-теги
 
-```html
+```html```
 <title>Leon казино — официальный сайт 2025 | Рабочие зеркала Leon</title>
 <meta name="description" content="Leon казино официальный сайт 2025. Рабочие зеркала для входа в LeonBet и Leon Casino из России без VPN. Быстрый доступ и бонусы.">
 <meta name="keywords" content="Leon казино, Leon казино зеркало, Leon зеркало 2025, LeonBet зеркало, Леон RU, Leon Casino вход, Леон казино бонусы">
@@ -40,5 +40,5 @@
 ---
 
 🔗 Мои проекты на GitHub
-🎰 Slot Roulette Demo v1.0.0
+🎰 Slot Roulette Demo v1.0.0(https://github.com/LeonAccess2025/slot-roulette-demo)
 Рандомайзер для выбора случайного слота Pragmatic Play. Отличный пример генератора случайных игр.
